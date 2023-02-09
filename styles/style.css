@@ -27,6 +27,12 @@ a {
 	margin-left: 30%;
 }
 
+iframe {
+	width: 300px;
+	height: 400px;
+	margin-left: 30%;
+}
+
 .engineer_pic {
 	width: 30px;
 }
